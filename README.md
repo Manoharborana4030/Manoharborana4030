@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# 📈 Account stats
+
+<a href="https://github.com/arjun-234">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manoharborana4030&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharborana4030&layout=compact&theme=dark" />
+</a>
+
+
+![snake gif](https://github.com/Manoharborana4030/Manoharborana4030/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Manoharborana4030/Manoharborana4030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
